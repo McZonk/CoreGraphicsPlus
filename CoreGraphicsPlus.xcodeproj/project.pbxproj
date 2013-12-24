@@ -81,7 +81,7 @@
 				50C5F28618698F1C0057564D /* CGAffineTransform+CGPShear.h */,
 				50C5F28518698F1C0057564D /* CGAffineTransform+CGPShear.c */,
 			);
-			path = CoreGraphicsPlus;
+			name = CoreGraphicsPlus;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,6 +255,7 @@
 				50C5F28118698EE30057564D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
