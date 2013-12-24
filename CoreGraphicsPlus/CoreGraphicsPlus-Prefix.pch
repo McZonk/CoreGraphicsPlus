@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CoreGraphicsPlus' target in the 'CoreGraphicsPlus' project
+//
+
+#ifdef __OBJC__
+	#import <QuartzCore/QuartzCore.h>
+#endif
